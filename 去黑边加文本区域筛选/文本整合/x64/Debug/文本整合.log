@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/7/8 11:28:14。
+     1>项目“C:\Users\Administrator\Documents\Visual Studio 2013\Projects\文本整合\文本整合\文本整合.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\program\visual studio\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D DLIB_PING_SUPPORT /D DLIB_JPEG_SUPPORT /D DLIB_JPEG_STATIC /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>D:\program\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\program\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>D:\program\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\dlib-19.1\dlib\image_transforms/morphological_operations.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         D:\program\visual studio\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\文本整合\x64\Debug\文本整合.exe" /INCREMENTAL /NOLOGO opencv_world300d.lib dlib.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\文本整合\x64\Debug\文本整合.pdb" /STACK:"10240000000" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\文本整合\x64\Debug\文本整合.lib" /MACHINE:X64 x64\Debug\main.obj
+         x64\Debug\stdafx.obj
+         文本整合.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2013\Projects\文本整合\x64\Debug\文本整合.exe
+     1>已完成生成项目“C:\Users\Administrator\Documents\Visual Studio 2013\Projects\文本整合\文本整合\文本整合.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.58

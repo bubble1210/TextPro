@@ -1,0 +1,12 @@
+﻿生成启动时间为 2019/7/1 15:54:52。
+     1>项目“C:\Users\Administrator\documents\visual studio 2013\Projects\文本整合\文本整合\文本整合.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\program\visual studio\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\documents\visual studio 2013\Projects\文本整合\x64\Release\文本整合.exe" /NOLOGO opencv_world300.lib dlib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\documents\visual studio 2013\Projects\文本整合\x64\Release\文本整合.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\documents\visual studio 2013\Projects\文本整合\x64\Release\文本整合.lib" /MACHINE:X64 x64\Release\main.obj
+         x64\Release\stdafx.obj
+     1>main.obj : error LNK2001: 无法解析的外部符号 USER_ERROR__missing_dlib_all_source_cpp_file__OR__inconsistent_use_of_DEBUG_or_ENABLE_ASSERTS_preprocessor_directives_
+     1>C:\Users\Administrator\documents\visual studio 2013\Projects\文本整合\x64\Release\文本整合.exe : fatal error LNK1120: 1 个无法解析的外部命令
+     1>已完成生成项目“C:\Users\Administrator\documents\visual studio 2013\Projects\文本整合\文本整合\文本整合.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:13.44
